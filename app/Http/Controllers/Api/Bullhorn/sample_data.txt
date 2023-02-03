@@ -1,0 +1,178 @@
+[data] => Array
+        (
+            [id] => 12673
+            [address] => Array
+                (
+                    [address1] => 
+                    [address2] => 
+                    [city] => 
+                    [countryCode] => US
+                    [countryID] => 1
+                    [countryName] => United States
+                    [state] => 
+                    [timezone] => 
+                    [zip] => 
+                )
+
+            [assignedUsers] => Array
+                (
+                    [total] => 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 454031
+                                    [firstName] => Chan
+                                    [lastName] => Conoza
+                                )
+
+                        )
+
+                )
+
+            [benefits] => 
+            [branchCode] => 
+            [businessSectors] => Array
+                (
+                    [total] => 12
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 1100015
+                                    [name] => Construction / Building / Engineering
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 1100014
+                                    [name] => Computer / Information Technology (Software)
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => 1100013
+                                    [name] => Computer / Information Technology (Hardware)
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => 1100012
+                                    [name] => Chemical / Fertilizers / Pesticides
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => 1100011
+                                    [name] => Call Center / IT-Enabled Services / BPO
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => 1100010
+                                    [name] => BioTechnology / Pharmaceutical / Clinical research
+                                )
+
+                            [6] => Array
+                                (
+                                    [id] => 1100009
+                                    [name] => Banking / Financial Services
+                                )
+
+                            [7] => Array
+                                (
+                                    [id] => 1100006
+                                    [name] => Architectural Services / Interior Designing
+                                )
+
+                            [8] => Array
+                                (
+                                    [id] => 1100005
+                                    [name] => Apparel
+                                )
+
+                            [9] => Array
+                                (
+                                    [id] => 1100004
+                                    [name] => Agricultural / Plantation / Poultry / Fisheries
+                                )
+
+                            [10] => Array
+                                (
+                                    [id] => 1100003
+                                    [name] => Advertising / Marketing / Promotion / PR
+                                )
+
+                            [11] => Array
+                                (
+                                    [id] => 1100002
+                                    [name] => Accounting / Audit / Tax
+                                )
+
+                        )
+
+                )
+
+            [categories] => Array
+                (
+                    [total] => 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 2000013
+                                    [name] => Accounting & Bookkeeping
+                                )
+
+                        )
+
+                )
+
+            [clientContact] => Array
+                (
+                    [id] => 466107
+                    [firstName] => Test_qa AUD_RS2_five
+                    [lastName] => testing
+                )
+
+            [clientCorporation] => Array
+                (
+                    [id] => 18958
+                    [name] => Test_qa Aud_Nov1 Testing
+                )
+
+            [customDate1] => 
+            [customInt5] => 4
+            [customInt8] => 
+            [customText1] => AUD
+            [customText13] => 12 Months
+            [customText14] => 
+            [customText15] => 
+            [customText16] => 
+            [customText17] => 1
+            [customText18] => Array
+                (
+                    [0] => Software / Tools
+                    [1] => Software / Tools2
+                    [2] => Software / Tools3
+                    [3] => Software / Tools4
+                )
+
+            [customText19] => 1
+            [customText2] => Australian Western Standard Time
+            [customText20] => Yes
+            [customText21] => Skype
+            [customText22] => 2
+            [customText23] => 
+            [customText24] => 
+            [customText25] => 
+            [customText27] => 3-12 staff
+            [customText3] => ASL New
+            [customText4] => Yes
+            [customText40] => 
+            [customText5] => https://www.remotestaff.com.au/contractor-request/#!/undefined
+            [customText6] => 1
+            [customText7] => 0
+            [customText8] => Yes
+            [customText9] => 3-10 staff
+            [customTextBlock1] => 
